@@ -1,8 +1,5 @@
 one
 1
 hello
-<<<<<<< HEAD
 Adding dark mode functionality
-=======
-adding dark mode functionality
->>>>>>> 7e2308c (adding dark mode functionality)
+
